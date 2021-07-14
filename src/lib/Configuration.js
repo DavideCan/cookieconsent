@@ -21,6 +21,7 @@ export default class Configuration {
       cookieVersion: 1,
       modalMainTextMoreLink: null,
       showRejectAllButton: true,
+      showCloseButton: true,
       barTimeout: 1000,
       theme: {
         barColor: '#2C7CBF',
